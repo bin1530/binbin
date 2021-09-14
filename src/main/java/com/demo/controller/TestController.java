@@ -11,6 +11,7 @@ public class TestController {
     public static void main(String[] args) {
         System.out.println("hahaahah");
         System.out.println("master");
+        System.out.println("111111111111111111");
     }
     @GetMapping("hello")
     public String hello(){
